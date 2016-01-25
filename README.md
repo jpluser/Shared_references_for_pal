@@ -136,3 +136,7 @@ Jplus 小伙伴儿们的共享文档
 7. rabbitmq 使用 http://blog.csdn.net/zyz511919766/article/details/41946521
 8. rabbitmq入门 http://www.infoq.com/cn/articles/AMQP-RabbitMQ
 9. 高可用rabbitmq部署 https://www.ibm.com/developerworks/cn/opensource/os-cn-RabbitMQ/
+
+## 版本控制
+#### git
+1.git documentation http://git-scm.com/book/zh/v1
