@@ -116,7 +116,7 @@ Jplus 小伙伴儿们的共享文档
 1. quikstart http://redis.io/topics/quickstart
 2. redis cluster http://redis.io/topics/cluster-tutorial
 3. redis document http://redis.io/documentation
-4. redis命令参考 https://redis.readthedocs.org/en/redirect-to-new-site/
+4. redis命令参考 http://redisdoc.com/
 5. redis 学习笔记 http://www.cnblogs.com/zhongweiv/p/node_redis.html
 6. nodejs client https://github.com/NodeRedis/node_redis
 7. cookbook http://redis-cookbook.readthedocs.org/en/latest/index.html
