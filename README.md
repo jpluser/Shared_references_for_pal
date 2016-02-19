@@ -112,6 +112,11 @@ Jplus 小伙伴儿们的共享文档
 
 ## 数据库
 ### NoSQL数据库
+#### mongodb
+1. 从 mongodb迁移到tokumx http://memoryboxes.github.io/blog/2014/09/16/cong-mongodbqian-yi-dao-tokumx/
+2. mongodb 3新特性 http://dataunion.org/12868.html
+3. mongodb原理解析 http://shift-alt-ctrl.iteye.com/blog/2255580
+
 #### redis
 1. quikstart http://redis.io/topics/quickstart
 2. redis cluster http://redis.io/topics/cluster-tutorial
