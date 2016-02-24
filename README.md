@@ -1,4 +1,35 @@
-[TOC]
+
+  * [Shared_references_for_pal](#shared_references_for_pal)
+    * [语言](#语言)
+      * [javascript](#javascript)
+        * [设计模式](#设计模式)
+        * [bootstrap及相关插件](#bootstrap及相关插件)
+        * [图标插件](#图标插件)
+        * [MV*框架](#mv框架)
+        * [效果相关](#效果相关)
+        * [angularjs](#angularjs)
+      * [python](#python)
+        * [语法教程](#语法教程)
+        * [设计模式](#设计模式-1)
+        * [WSGI](#wsgi)
+        * [Web](#web)
+        * [DB](#db)
+        * [其它](#其它)
+    * [系统](#系统)
+      * [linux](#linux)
+        * [常用命令](#常用命令)
+        * [用户、组、权限](#用户组权限)
+        * [vi &amp; vim](#vi--vim)
+        * [系统监控 &amp; proc伪文件系统](#系统监控--proc伪文件系统)
+        * [常用linux发行版本与安装](#常用linux发行版本与安装)
+    * [数据库](#数据库)
+      * [NoSQL数据库](#nosql数据库)
+        * [mongodb](#mongodb)
+        * [redis](#redis)
+      * [消息队列](#消息队列)
+        * [rabbitmq](#rabbitmq)
+    * [版本控制](#版本控制)
+        * [git](#git)
 
 # Shared_references_for_pal
 Jplus 小伙伴儿们的共享文档
@@ -93,7 +124,7 @@ Jplus 小伙伴儿们的共享文档
 
 ## 系统
 ### linux
-必备教程 鸟哥的私房菜 http://linux.vbird.org/ （中文链接 http://vbird.dic.ksu.edu.tw/）
+必备教程 鸟哥的私房菜 http://linux.vbird.org/ （中文链接 http://vbird.dic.ksu.edu.tw/）  
 服务器环境搭建 server-world http://www.server-world.info/en/
 
 #### 常用命令
