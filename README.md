@@ -1,3 +1,5 @@
+[TOC]
+
 # Shared_references_for_pal
 Jplus 小伙伴儿们的共享文档
 
@@ -92,6 +94,7 @@ Jplus 小伙伴儿们的共享文档
 ## 系统
 ### linux
 必备教程 鸟哥的私房菜 http://linux.vbird.org/ （中文链接 http://vbird.dic.ksu.edu.tw/）
+服务器环境搭建 server-world http://www.server-world.info/en/
 
 #### 常用命令
 1. 网络常用命令 http://vbird.dic.ksu.edu.tw/linux_server/0140networkcommand/0140networkcommand-centos4.php
