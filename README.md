@@ -30,6 +30,8 @@
         * [rabbitmq](#rabbitmq)
     * [版本控制](#版本控制)
         * [git](#git)
+    * [大数据](#大数据)
+      * [impala](#impala)
 
 # Shared_references_for_pal
 Jplus 小伙伴儿们的共享文档
@@ -181,3 +183,22 @@ Jplus 小伙伴儿们的共享文档
 1.git 入门教程 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000  
 2.git 官方书籍 http://git-scm.com/book/zh/v2
 
+## 大数据
+### impala
+#### 官方参考文档
+1. impala 企业版在线文档：http://www.cloudera.com/documentation/enterprise/5-4-x/topics/impala.html
+2. impala 在线文档：http://www.cloudera.com/documentation/archive/impala/2-x/2-1-x/impala-homepage.html
+3. impala 文档下载: http://www.cloudera.com/documentation/archive/impala/1-x/1-4-x.html 
+4. 国内一个哥们儿做的一些翻译 http://blog.csdn.net/jiadebin890724/article/details/38822331 （PS：以官方文档为主吧，英文的，啃啃还是可以的）
+
+#### impala 安装
+1. 请自行选择安装版本 http://www.cloudera.com/documentation/cdh/5-1-x/Impala/Installing-and-Using-Impala/ciiu_install.html
+2. 一哥们儿总结的impala安装系列 http://www.cnblogs.com/chengyeliang/p/3548484.html http://www.cnblogs.com/chengyeliang/p/3548531.html http://www.cnblogs.com/chengyeliang/p/3548484.html 
+
+#### 一些较好的参考博客
+1. impala入门笔记 http://tech.uc.cn/?p=817 
+2. hive与impala比较（蜂羚之争） http://tech.uc.cn/?p=1803 
+3. mapReduce 和impala差异  https://www.quora.com/What-is-the-difference-between-MapReduce-and-Impala
+4. 蜂羚之争 https://www.dezyre.com/article/-hive-vs-impala-sql-war-in-the-hadoop-ecosystem/148 http://hortonworks.com/blog/impala-vs-hive-performance-benchmark/
+5. 谁更适合做分析 https://vision.cloudera.com/apache-spark-cloudera-search-impala-which-is-best-for-analytics/ 
+6. 杂谈 https://www.xplenty.com/blog/2015/02/spark-impala-tez-hive-david-gruzman/
