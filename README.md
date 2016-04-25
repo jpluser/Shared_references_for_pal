@@ -91,6 +91,24 @@ Jplus 小伙伴儿们的共享文档
 4. 11个angularjs性能优化小建议 http://www.alexkras.com/11-tips-to-improve-angularjs-performance/
 5. angularjs performance in large applications https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
 
+#### ionic
+##### 相关参考文档
+1. ionic相关参考文档
+2. github 源码 https://github.com/driftyco/ionic
+3. 官方文档 http://ionicframework.com/docs/
+4. 简单安装使用 http://ionicframework.com/getting-started/
+5. codepen ionic专栏演示 http://codepen.io/ionic/pens/public/
+
+##### github上若干ionic相关demo项目
+1. https://github.com/driftyco/ionic-conference-app
+2. https://github.com/driftyco/ionic-weather
+3. https://github.com/ionic-in-action/ionic-demo-resort-app
+
+##### 部分中文相关的文档
+1. CodePen 上的部分优秀ionic demo http://my.oschina.net/u/1416844/blog/514361
+2. 中文文档 http://www.ionic.wang/
+3. 中文社区 http://ionichina.com/
+
 ### python
 #### 语法教程
 1. python学习笔记 https://github.com/crazygit/readnote/tree/master/python
