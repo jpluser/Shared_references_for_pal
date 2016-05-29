@@ -184,8 +184,7 @@ Jplus 小伙伴儿们的共享文档
 8. 高可用，开源redis缓存集群方案 http://www.infoq.com/cn/news/2014/11/open-source-redis-cache
 9. redis应用场景 http://blog.csdn.net/hguisu/article/details/8836819
 10. redis应用场景http://www.cnblogs.com/shanyou/archive/2012/09/04/2670972.html
-10. 为什么选择redis http://www.infoq.com/cn/articles/tq-why-choose-redis
-11. 
+11. 为什么选择redis http://www.infoq.com/cn/articles/tq-why-choose-redis
 
 #### influxDB
 ##### 官方参考文档
