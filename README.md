@@ -27,6 +27,7 @@
       * [NoSQL数据库](#nosql数据库)
         * [mongodb](#mongodb)
         * [redis](#redis)
+        * [influxdb](#influxdb)
       * [消息队列](#消息队列)
         * [rabbitmq](#rabbitmq)
     * [版本控制](#版本控制)
@@ -184,6 +185,21 @@ Jplus 小伙伴儿们的共享文档
 9. redis应用场景 http://blog.csdn.net/hguisu/article/details/8836819
 10. redis应用场景http://www.cnblogs.com/shanyou/archive/2012/09/04/2670972.html
 10. 为什么选择redis http://www.infoq.com/cn/articles/tq-why-choose-redis
+11. 
+
+#### influxDB
+##### 官方参考文档
+1. releases and install packages http://s3.amazonaws.com/influxdb/
+2. document for v0.8 https://docs.influxdata.com/influxdb/v0.8/introduction/overview/
+3. influx bugs https://influxdata.com/blog/
+4. github https://github.com/influxdata/influxdb
+5. drop problem https://github.com/influxdata/influxdb/issues/448
+
+##### 众说与性能调优
+1. 性能调优 http://www.tuicool.com/articles/J7ZnQrf
+2. influxdb的存储引擎 http://www.lxway.com/465555844.htm
+3. 打造metric监控之Influxdb的各种查询及聚合性能的测试 http://www.68idc.cn/help/jiabenmake/python/20150119177835.html
+4. performance talking https://gofore.com/en/performance-of-influxdb-low-end-hardware-2/
 
 ### 消息队列
 #### rabbitmq
