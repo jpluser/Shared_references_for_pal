@@ -9,6 +9,7 @@
         * [效果相关](#效果相关)
         * [angularjs](#angularjs)
         * [ionic](#ionic)
+        * [coffeescript](#coffeescript)
       * [python](#python)
         * [语法教程](#语法教程)
         * [设计模式](#设计模式-1)
@@ -110,6 +111,27 @@ Jplus 小伙伴儿们的共享文档
 1. CodePen 上的部分优秀ionic demo http://my.oschina.net/u/1416844/blog/514361
 2. 中文文档 http://www.ionic.wang/
 3. 中文社区 http://ionichina.com/
+
+#### coffeescript
+##### 学习文档
+1. coffee script中文指南 http://coffee-script.org/
+2. little boot for coffee script https://arcturo.github.io/library/coffeescript/index.html
+
+##### 规范性指南
+1. coffee script 规范指南 https://github.com/geekplux/coffeescript-style-guide
+2. 英文原版 https://github.com/polarmobile/coffeescript-style-guide
+
+##### coffeescipt document generator
+1. codo https://github.com/coffeedoc/codo
+2. python like https://github.com/omarkhan/coffeedoc
+3. coffee lint http://www.coffeelint.org/
+
+##### javascript document generator
+1. JSDoc 3 https://github.com/jsdoc3/jsdoc
+
+##### ngdoc for angularjs
+1. grunt-ngdocs https://github.com/m7r/grunt-ngdocs
+2. angular documents https://github.com/angular/angular.js/wiki/Writing-AngularJS-Documentation
 
 ### python
 #### 语法教程
